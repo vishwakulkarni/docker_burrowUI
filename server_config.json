@@ -1,0 +1,5 @@
+{
+  "burrow" : {
+    "home" : "http://-test2.cfapps.sap.hana.ondemand.com/v3/kafka"
+  }
+}
